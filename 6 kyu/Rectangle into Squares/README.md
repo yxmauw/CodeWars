@@ -5,10 +5,10 @@ The drawing below gives an idea of how to cut a given "true" rectangle into squa
 
 Can you translate this drawing into an algorithm?
 
-You will be given two dimensions
+__You will be given two dimensions__
 
-a positive integer length
-a positive integer width
+1. a positive integer length
+1. a positive integer width
 You will return a collection or a string (depending on the language; Shell bash, PowerShell, Pascal and Fortran return a string) with the size of each of the squares.
 
 ## Examples in general form:
