@@ -1,4 +1,4 @@
-# CodeWars_Python3.10
+# CodeWars
 ---
 
 [CodeWars](http://www.codewars.com/) is a website where you can improve your skills by training with others on real code challenges.
