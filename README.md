@@ -6,3 +6,5 @@
 Each challenge is ranked from `8 Kyu` (easy, basic, fundamentals) to `1 Kyu` (hard, expert, compilers).
 
 This repository shows all the work I've done there.
+
+Language: Python 3.10
