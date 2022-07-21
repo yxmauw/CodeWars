@@ -17,9 +17,9 @@ You will return a collection or a string (depending on the language; Shell bash,
   ```
   sqInRect(5, 3) should return [3, 2, 1, 1]
   sqInRect(3, 5) should return [3, 2, 1, 1]
- 
-  You can see examples for your language in **"SAMPLE TESTS".**
-  ```
+ ```
+You can see examples for your language in **"SAMPLE TESTS".**
+  
 ## Notes:
 `lng == wdth` as a starting case would be an entirely different problem and the drawing is planned to be interpreted with `lng != wdth`. (See kata, [Square into Squares. Protect trees!](http://www.codewars.com/kata/54eb33e5bc1a25440d000891) for this problem).
 
